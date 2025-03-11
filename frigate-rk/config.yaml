@@ -2,12 +2,13 @@ name: Frigate-rk
 version: 0.15.0-rk
 breaking_versions:
   - 0.15.0-rk
+  - bea6cf2-rk
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-rk
 description: NVR with realtime local object detection for IP cameras
 url: "https://github.com/blakeblackshear/frigate"
-image: ghcr.io/blakeblackshear/frigate:0.15.0-rk
+image: ghcr.io/blakeblackshear/frigate:bea6cf2-rk
 startup: application
 boot: auto
 init: false
