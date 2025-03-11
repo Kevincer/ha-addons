@@ -1,7 +1,7 @@
 name: Frigate
 version: 0.15.0-rk
 breaking_versions:
-  - 0.15.0
+  - 0.15.0-rk
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate
