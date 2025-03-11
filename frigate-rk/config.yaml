@@ -1,10 +1,10 @@
-name: Frigate
+name: Frigate-rk
 version: 0.15.0-rk
 breaking_versions:
   - 0.15.0-rk
 panel_icon: "mdi:cctv"
 panel_title: Frigate
-slug: frigate
+slug: frigate-rk
 description: NVR with realtime local object detection for IP cameras
 url: "https://github.com/blakeblackshear/frigate"
 image: ghcr.io/blakeblackshear/frigate:stable-rk
